@@ -1,4 +1,6 @@
-# college2
+### Знайомство з ООП
+
+## Створюємо перший class
 
 1 - <img width="1440" alt="Знімок екрана 2024-04-09 о 12 07 31" src="https://github.com/nastya-kryhzanivskya/college2/assets/154334074/fe17bf62-b7b7-431f-8392-792c417ff23d">
 
@@ -25,7 +27,7 @@ class Greeting:
     def say_hello(self):
         print("Привіт,", self.name)
 
-    # Функція для підрахунку кількості букв у імені
+    Функція для підрахунку кількості букв у імені
     def count_letters(self):
         return len(self.name)
 
